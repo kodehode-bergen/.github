@@ -32,7 +32,8 @@ Backend + frontend = fullstack! Her bygger du komplette applikasjoner:
 Lær hvordan MVC fungerer, bygg RestAPI-er og jobb med databaser:
 👉 [Se prosjekter med temaet **Kodehode Backend**](https://github.com/topics/kodehode-backend)
 
-👉 [C# intermediate](https://github.com/topics/kodehode-c-sharp-intermediate)
+👉 [C# Intermediate](https://github.com/topics/kodehode-c-sharp-intermediate)
+👉 [C# Advanced](https://github.com/topics/kodehode-c-sharp-advanced)
 
 ## 💬 Spørsmål?
 Spør den faglige veilederen for din fagretning på Discord! 🚀
