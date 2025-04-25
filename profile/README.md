@@ -1,6 +1,6 @@
 # 👩‍💻 Velkommen til Kodehode Bergen! 👨‍💻
 
-Dette er den offisielle GitHub-siden for **Kodehode-kurset i Bergen**. Her finner du **kodeprosjektene vi jobber med i undervisningen**, delt opp etter tema og fagområder.
+Dette er den offisielle GitHub-siden for **Kodehode-kurset i Bergen**. Her finner du **kodene vi jobber med i undervisningen**, samt **oppgaver man kan forke** delt opp etter tema og fagområder.
 
 📚 Bruk lenkene nedenfor for å navigere rett til prosjektene du trenger å jobbe med – enten du er i kartlegging, frontend, fullstack eller backend! 💪
 
