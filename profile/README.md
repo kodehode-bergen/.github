@@ -17,6 +17,7 @@ HTML, CSS, JavaScript og React! Alt du trenger for å bygge brukervennlige netts
 👉 [Se prosjekter med temaet **Kodehode Frontend**](https://github.com/topics/kodehode-frontend)
 
 👉 [Modul A](https://github.com/topics/kodehode-modul-a)
+
 ---
 
 ## 🌐 Fullstack
