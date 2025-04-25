@@ -15,12 +15,14 @@ Her finner du de ulike prosjektene vi jobber med i kartleggingsperioden:
 ## 🎨 Frontend
 HTML, CSS, JavaScript og React! Alt du trenger for å bygge brukervennlige nettsider:
 👉 [Se prosjekter med temaet **Kodehode Frontend**](https://github.com/topics/kodehode-frontend)
+
 👉 [Modul A](https://github.com/topics/kodehode-modul-a)
 ---
 
 ## 🌐 Fullstack
 Backend + frontend = fullstack! Her bygger du komplette applikasjoner:
 👉 [Se prosjekter med temaet **Kodehode Fullstack**](https://github.com/topics/kodehode-fullstack)
+
 👉 [Modul A](https://github.com/topics/kodehode-modul-a)
 
 ---
