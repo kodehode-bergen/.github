@@ -10,6 +10,8 @@ Dette er den offisielle GitHub-siden for **Kodehode-kurset i Bergen**. Her finne
 Her finner du de ulike prosjektene vi jobber med i kartleggingsperioden:
 👉 [Se prosjekter med temaet **Kodehode Kartlegging**](https://github.com/topics/kodehode-kartlegging)
 
+👉 [Oppgaver for Kartlegging](https://github.com/topics/kodehode-kartlegging-oppgaver)
+
 ---
 
 ## 🎨 Frontend
