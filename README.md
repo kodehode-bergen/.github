@@ -8,25 +8,25 @@ Dette er den offisielle GitHub-siden for **Kodehode-kurset i Bergen**. Her finne
 
 ## 🧭 Kartlegging og Oppstart
 Her finner du de ulike prosjektene vi jobber med i kartleggingsperioden:
-👉 [Se prosjekter med temaet **Kodehode Kartlegging**](LINK HER)
+👉 [Se prosjekter med temaet **Kodehode Kartlegging**](https://github.com/topics/kodehode-kartlegging)
 
 ---
 
 ## 🎨 Frontend
 HTML, CSS, JavaScript og React! Alt du trenger for å bygge brukervennlige nettsider:
-👉 [Se prosjekter med temaet **Kodehode Frontend**](LINK HER)
+👉 [Se prosjekter med temaet **Kodehode Frontend**](https://github.com/topics/kodehode-frontend)
 
 ---
 
 ## 🌐 Fullstack
 Backend + frontend = fullstack! Her bygger du komplette applikasjoner:
-👉 [Se prosjekter med temaet **Kodehode Fullstack**](LINK HER)
+👉 [Se prosjekter med temaet **Kodehode Fullstack**](https://github.com/topics/kodehode-fullstack)
 
 ---
 
 ## 🛠 Backend
 Lær hvordan MVC fungerer, bygg RestAPI-er og jobb med databaser:
-👉 [Se prosjekter med temaet **Kodehode Backend**](LINK HER)
+👉 [Se prosjekter med temaet **Kodehode Backend**](LENKE-KOMMER-HER)
 
 
 ## 💬 Spørsmål?
